@@ -30,4 +30,3 @@
 - react-calendar
 To get the cool calender.
 
-# ReactHerokuApp
