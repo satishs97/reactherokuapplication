@@ -3,7 +3,7 @@
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)</a>
 
-## 🎏 Heroku Link : [Click Here](https://elegant-heyrovsky-ed2f7d.netlify.app/)
+## Link : [Click Here](https://elegant-heyrovsky-ed2f7d.netlify.app/)
 
 ## Table of Contents
 
