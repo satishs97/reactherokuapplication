@@ -5,12 +5,6 @@
 
 ## Link : [Click Here](https://elegant-heyrovsky-ed2f7d.netlify.app/)
 
-## Table of Contents
-
-* [Step Follow](#description)
-* [Packages Used](#package-used)
-
-
 ## Description
 > Determining Fullthrottle user active time periods according to date.
 
